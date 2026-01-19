@@ -24,7 +24,7 @@ TinyAI provides comprehensive documentation to help you get started and dive dee
 
 | **Documentation Type** | **Description**                                                                                                                                                              | **Link**                                              |
 | ---------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------- |
-| **TypeDocs**           | Detailed API reference generated from the source code. Includes all classes, methods, and types used in TinyAI. Ideal for developers looking for in-depth technical details. | [TypeDocs](https://github.com/DaniloVlad/tinyai)      |
+| **TypeDocs**           | Detailed API reference generated from the source code. Includes all classes, methods, and types used in TinyAI. Ideal for developers looking for in-depth technical details. | [TypeDocs](https://danilovlad.github.io/tinyai/)      |
 | **Overview Docs**      | High-level documentation covering concepts, examples, and guides for using TinyAI. Perfect for understanding the framework and its use cases.                                | [Overview Docs](https://github.com/DaniloVlad/tinyai) |
 
 ## ⚙️ Installation
