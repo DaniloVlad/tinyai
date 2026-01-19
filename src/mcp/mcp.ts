@@ -26,7 +26,6 @@ export class MCP {
     this.client = new Client({
       name: settings.name,
       version: settings.version,
-      transport: settings.transport,
     });
   }
 
