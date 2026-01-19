@@ -1,0 +1,8 @@
+dist
+site.md
+node_modules
+.secret
+.DS_Store
+
+coverage/
+docs/
